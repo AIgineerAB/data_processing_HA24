@@ -1,8 +1,4 @@
-# Python :snake: and data processing :computer: (YH01804-2023–1)
-
-## UNDER CONSTRUCTION DO NOT USE IN PRODUCTION
-
-TODO: double check course code
+# Python :snake: and data processing :computer: (OPA23GB_AI 1)
 
 This course aims to introduce fundamental concepts in python, data processing in pandas and data visualisation in matplotlib, seaborn and plotly. The data visualisation part will both cover **exploratory** data analysis and **explanatory** data analysis, where we will use data visualisation for data storytelling. Further, in the course we will also work with git, github for source control and poetry for virtual environment. A course in AI, data science and/or data engineering is a natural continuation after this course.
 
