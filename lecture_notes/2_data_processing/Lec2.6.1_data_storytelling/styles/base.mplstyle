@@ -1,0 +1,26 @@
+figure.figsize: 8, 5
+font.family: "avenir"
+
+
+# ------------ line ----------------------
+lines.linewidth : 4
+
+# ------------ remove clutter ------------
+axes.spines.top: False
+axes.spines.right: False
+xtick.minor.visible: False
+ytick.minor.visible: False
+xtick.major.size: 0
+ytick.major.size: 0
+
+# ------------ tick colors ---------------
+xtick.color: "#6b7280"
+xtick.labelcolor: "#6b7280"
+ytick.color: "#6b7280"
+ytick.labelcolor: "#6b7280"
+axes.labelcolor: "#6b7280"
+axes.edgecolor: "#9ca3af"
+
+# ------------ title ---------------------
+axes.titlesize : 18
+axes.titlecolor : "#374151"
