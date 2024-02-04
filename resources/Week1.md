@@ -2,7 +2,7 @@
 
 ## Setup :wrench:
 
-- Download [Python 3.12 here](https://www.python.org/downloads/) and install it. Don't install another Python version unless you know how to switch between versions in an efficient way, e.g. by using pyenv. Multiple versions of Python might lead to issues with paths.
+- Download [Python 3.11 here](https://www.python.org/downloads/) (don't choose 3.12) and install it. Don't install another Python version unless you know how to switch between versions in an efficient way, e.g. by using pyenv. Multiple versions of Python might lead to issues with paths.
 
 - Important to check :ballot_box_with_check: **add to path** in the installation. Make sure to have only **one** version of Python installed.
 
