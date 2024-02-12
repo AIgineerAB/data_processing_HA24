@@ -9,3 +9,4 @@ This allows the algorithm to make predictions on unseen data, based on its train
 It is used for tasks such as classification, where the goal is to assign a label to input data, and regression, where the goal is to predict a continuous output variable.
 
 Supervised learning has many applications in areas like image recognition, natural language processing, and financial forecasting.
+Cleaned by Kokchun
