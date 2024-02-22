@@ -15,7 +15,7 @@ Although the course is a fundamental course, a large amount of concepts are cove
 | 8    | pandas, series, dataframe, missing data, selection, aggregate, plotly express, seaborn, lab 1                             |
 | 9    | merge, concatenate, join, sort, apply, API, .env, lab 1, lab 2                                                            |
 | 10   | KPI, data storytelling, matplotlib depth, lab 2                                                                           |
-| 11   | lab 2                                                                                                                     |
+| 11   | high performance pandas, lab 2                                                                                            |
 
 Note that this schedule is an overview and will be updated during the course.
 
