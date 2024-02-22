@@ -4,6 +4,8 @@ Now we've come to data processing part of the course, which is built upon the fu
 
 ## Setup :wrench:
 
+Activate your venv and then do this: 
+
 ```py
 pip install pandas seaborn openpyxl plotly-express plotly
 ```
