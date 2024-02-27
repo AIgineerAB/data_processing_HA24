@@ -13,9 +13,9 @@ Although the course is a fundamental course, a large amount of concepts are cove
 | 6    | installation, git, poetry, fundamentals - if, while, for, list, matplotlib, strings, functions, file handling, dictionary |
 | 7    | numpy, exception handling, OOP: class, object, attributes, properties, inheritance, polymorphism, lab 1                   |
 | 8    | pandas, series, dataframe, missing data, selection, aggregate, plotly express, seaborn, lab 1                             |
-| 9    | merge, concatenate, join, sort, apply, API, .env, lab 1, lab 2                                                            |
+| 9    | merge, concatenate, join, sort, apply, lab 1, lab 2, (API, .env - moved to next course)                                   |
 | 10   | KPI, data storytelling, matplotlib depth, lab 2                                                                           |
-| 11   | high performance pandas, lab 2                                                                                            |
+| 11   | high performance pandas (moved to next course), lab 2                                                                     |
 
 Note that this schedule is an overview and will be updated during the course.
 
