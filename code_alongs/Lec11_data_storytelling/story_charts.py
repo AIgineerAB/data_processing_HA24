@@ -6,11 +6,11 @@ from inspect import currentframe
 # in jupyter notebook
 # DATA_PATH = "../../data/data_processing/"
 DATA_PATH = Path(__file__).parents[2] / "data" / "data_processing"
-
+STYLES_PATH = Path(__file__).parent / "styles"
 
 class StoryCharts:
     def __init__(self) -> None:
-        pass
+        plt.style.use(STYLES_PATH / "base.mplstyle")
 
     def _set_labels(self, title, xlabel, ylabel):
         self.ax.set_xlabel(xlabel, loc="left")
