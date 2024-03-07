@@ -9,13 +9,22 @@ DATA_PATH = Path(__file__).parents[2] / "data" / "data_processing"
 class StoryCharts:
     def __init__(self) -> None:
         pass
+    
+    def _set_labels(self, title, xlabel, ylabel):
+        self.ax.set_xlabel(xlabel, loc="left")
+        self.ax.set_ylabel(ylabel, loc="top")
+        self.ax.set_title(title, loc="left", pad=15)
 
     def _plot(self, x, y, colors = "#0c4a6e", **label_kwargs):
         self.fig, self.ax = plt.subplots()
 
+        self._set_labels(**label_kwargs)
         plt.show()
     
     def Line(self, x, y):
+        pass 
+
+    def Bar(self, x, y):
         pass 
 
 # this is to be able to run this as a standalone script 
